@@ -1,0 +1,330 @@
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.dll.config
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.pdb
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.exe
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.exe.config
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.rsp
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\csi.exe
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\csi.rsp
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.AppContext.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Collections.Immutable.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.IO.FileSystem.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Reflection.Metadata.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.exe
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.exe.config
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.rsp
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\VBCSCompiler.exe
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\roslyn\VBCSCompiler.exe.config
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Antlr3.Runtime.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Microsoft.Web.Infrastructure.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Newtonsoft.Json.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Helpers.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Mvc.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Optimization.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Razor.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Deployment.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Razor.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\WebGrease.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Helpers.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Mvc.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Optimization.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.Razor.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Deployment.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Razor.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Newtonsoft.Json.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Antlr3.Runtime.pdb
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csprojAssemblyReference.cache
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.CoreCompileInputs.cache
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.CopyComplete
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.pdb
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Microsoft.Win32.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\netstandard.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.AppContext.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Collections.Concurrent.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Collections.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Collections.NonGeneric.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Collections.Specialized.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.ComponentModel.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.ComponentModel.EventBasedAsync.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.ComponentModel.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.ComponentModel.TypeConverter.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Console.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Data.Common.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.Contracts.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.Debug.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.FileVersionInfo.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.Process.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.StackTrace.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.Tools.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.TraceSource.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Diagnostics.Tracing.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Drawing.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Dynamic.Runtime.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Globalization.Calendars.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Globalization.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Globalization.Extensions.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.Compression.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.Compression.ZipFile.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.FileSystem.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.FileSystem.DriveInfo.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.FileSystem.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.FileSystem.Watcher.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.IsolatedStorage.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.MemoryMappedFiles.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.Pipes.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.IO.UnmanagedMemoryStream.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Linq.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Linq.Expressions.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Linq.Parallel.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Linq.Queryable.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.Http.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.NameResolution.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.NetworkInformation.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.Ping.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.Requests.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.Security.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.Sockets.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.WebHeaderCollection.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.WebSockets.Client.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Net.WebSockets.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.ObjectModel.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Reflection.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Reflection.Extensions.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Reflection.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Resources.Reader.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Resources.ResourceManager.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Resources.Writer.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.Extensions.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.Handles.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.InteropServices.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.Numerics.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.Serialization.Formatters.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.Serialization.Json.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.Serialization.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.Serialization.Xml.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.Claims.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.Cryptography.Algorithms.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.Cryptography.Csp.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.Cryptography.Encoding.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.Cryptography.Primitives.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.Cryptography.X509Certificates.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.Principal.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Security.SecureString.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Text.Encoding.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Text.Encoding.Extensions.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Text.RegularExpressions.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Threading.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Threading.Overlapped.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Threading.Tasks.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Threading.Tasks.Parallel.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Threading.Thread.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Threading.ThreadPool.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Threading.Timer.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.ValueTuple.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Xml.ReaderWriter.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Xml.XDocument.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Xml.XmlDocument.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Xml.XmlSerializer.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Xml.XPath.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Xml.XPath.XDocument.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\BouncyCastle.Crypto.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.Streams.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\K4os.Hash.xxHash.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\MySql.Data.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Buffers.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Memory.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Numerics.Vectors.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Ubiety.Dns.Core.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Zstandard.Net.dll
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.pdb
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.Streams.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\K4os.Hash.xxHash.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\MySql.Data.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Buffers.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Memory.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Numerics.Vectors.xml
+D:\notes, darbai\duomenų bazės\ld2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.dll.config
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.pdb
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.exe
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.exe.config
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.rsp
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csi.exe
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csi.rsp
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.AppContext.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Collections.Immutable.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.IO.FileSystem.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Reflection.Metadata.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.exe
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.exe.config
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.rsp
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\VBCSCompiler.exe
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\VBCSCompiler.exe.config
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Antlr3.Runtime.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\BouncyCastle.Crypto.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.Streams.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Hash.xxHash.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Microsoft.Web.Infrastructure.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\MySql.Data.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Newtonsoft.Json.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Buffers.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Memory.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Numerics.Vectors.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Helpers.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Mvc.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Optimization.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Razor.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Deployment.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Razor.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Ubiety.Dns.Core.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\WebGrease.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Zstandard.Net.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.pdb
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.Streams.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Hash.xxHash.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\MySql.Data.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Buffers.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Memory.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Numerics.Vectors.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Helpers.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Mvc.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Optimization.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Razor.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Deployment.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Razor.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Newtonsoft.Json.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Antlr3.Runtime.pdb
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.AssemblyReference.cache
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.CoreCompileInputs.cache
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.CopyComplete
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.dll
+F:\aqwe\2k2p\Duomenu Based\L2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.pdb
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.dll.config
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\LD2_Filmai.pdb
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.exe
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.exe.config
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csc.rsp
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csi.exe
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\csi.rsp
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.AppContext.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.exe
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.exe.config
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\vbc.rsp
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\VBCSCompiler.exe
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Antlr3.Runtime.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\BouncyCastle.Crypto.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Hash.xxHash.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\MySql.Data.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Newtonsoft.Json.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Buffers.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Memory.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Numerics.Vectors.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Helpers.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Mvc.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Optimization.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Razor.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Deployment.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Razor.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Ubiety.Dns.Core.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\WebGrease.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Zstandard.Net.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.pdb
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Google.Protobuf.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\K4os.Hash.xxHash.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\MySql.Data.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Buffers.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Memory.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Numerics.Vectors.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Helpers.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Mvc.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Optimization.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.Razor.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Deployment.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\System.Web.WebPages.Razor.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Newtonsoft.Json.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Antlr3.Runtime.pdb
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.AssemblyReference.cache
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.CoreCompileInputs.cache
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.csproj.CopyComplete
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.dll
+C:\Users\blueu\Documents\progamming ig\DB\L2 w try\L2-2\L2-2\LD2_Filmai\LD2_Filmai\obj\Debug\LD2_Filmai.pdb

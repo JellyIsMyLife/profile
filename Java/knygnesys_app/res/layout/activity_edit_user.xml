@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ManageOrders"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".worker.EditBookActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="410dp"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/green" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/background_rounded"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:ems="10"
+                    android:inputType="text"
+                    android:text="Redaguoti vartotoją"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="30dp"
+                    android:fontFamily="@font/ubuntu"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/email"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="30dp"
+                    android:fontFamily="@font/ubuntu"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <Spinner
+                    android:id="@+id/roles"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="30dp"/>
+
+                <EditText
+                    android:id="@+id/branches"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="30dp"
+                    android:background="@drawable/rounded_input"
+                    android:elevation="3dp"
+                    android:ems="10"
+                    android:fontFamily="@font/ubuntu"
+                    android:textColor="@color/black"
+                    android:hint="Padalinys"
+                    android:inputType="textPersonName"
+                    android:padding="10dp"
+                    android:visibility="invisible"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal"
+                    android:layout_margin="10dp">
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/save"
+                        android:layout_width="178dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/rounded"
+                        android:text="Išsaugoti"
+                        android:textColor="#FFFF"
+                        android:layout_weight="1"/>
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/back"
+                        android:layout_width="178dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/rounded"
+                        android:text="Atšaukti"
+                        android:textColor="#FFFF"
+                        android:layout_weight="2"/>
+
+                </LinearLayout>
+            </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,121 @@
+﻿@using Elektrom.Models
+@model Naudotojai
+@{
+    ViewData["Title"] = "Checkout - user information";
+    Layout = "_ShoppingCartLayout";
+    bool user = (Model.Tipas == null) ? false : true;
+}
+
+<section>
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center mb-4">
+            <div class="bcca-breadcrumb">
+                <div class="bcca-breadcrumb-item">Confirmation</div>
+                <div class="bcca-breadcrumb-item">Payment</div>
+                <div class="bcca-breadcrumb-item">Delivery</div>
+                <div class="bcca-breadcrumb-item bcca-breadcrumb-current">User information</div>
+                <div class="bcca-breadcrumb-item bcca-breadcrumb-before">Shopping Cart</div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-8">
+                <div class="card card-registration card-registration-2" style="border-radius: 15px;">
+                    <div class="card-body">
+                        <div class="row p-4">
+                            @if (user)
+                            {
+                                <form action="UserInformation" method="POST">
+                                    <div class="mb-3">
+                                        <label for="firstName" class="form-label"><span class="text-danger">*</span>First name</label>
+                                        <input type="text" class="form-control" name="firstName" id="firstName" value="@Model.Vardas" required />
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="lastName" class="form-label"><span class="text-danger">*</span>Last name</label>
+                                        <input type="text" class="form-control" name="lastName" id="lastName" value="@Model.Pavarde" required />
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label"><span class="text-danger" placeholder="name@example.com">*</span>Email address</label>
+                                        <input type="email" class="form-control" name="email" id="email" value="@Model.Pastas" required/>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="phoneNumber" class="form-label"><span class="text-danger">*</span>Phone number</label>
+                                        <input type="tel" class="form-control" name="phoneNumber" id="phoneNumber" value="@Model.TelNumeris" required/>
+                                    </div>
+                                    <div class="mb-3">
+                                        <p>Fields marked with <span class="text-danger">*</span> are required.</p>
+                                    </div>
+                                    <div class="mb-3">
+                                        <button type="submit" class="btn btn-success w-100">Continue</button>
+                                    </div>
+                                </form>
+                            }
+                            else
+                            {
+                                <div class="col-6 pe-4">
+                                    <div class="row text-center">
+                                        <h5>Sign in to continue</h5>
+                                    </div>
+                                    <div class="row text-center">
+                                        <p>Sign in, if you have an account to continue.</p>
+                                    </div>
+                                    <div class="row text-center">
+                                        <a class="btn btn-success btn-lg" href="/Identity/Account/Login"><i class="bi bi-person-check me-2"></i>Sign in</a>
+                                    </div>
+                                </div>
+                                <div class="col-6 ps-4">
+                                    <div class="row text-center">
+                                        <h5>Continue as a guest</h5>
+                                    </div>
+                                    <div class="row text-center">
+                                        <p>Without an account, you can continue as a guest.</p>
+                                    </div>
+                                    <div class="row">
+                                        <button class="btn btn-outline-secondary btn-lg" data-bs-toggle="modal" data-bs-target="#modalLoginForm">Continue as guest</button>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">Enter your personal information</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form action="UserInformation" method="POST">
+                    <div class="mb-3">
+                        <label for="firstName" class="form-label"><span class="text-danger">*</span>First name</label>
+                        <input type="text" class="form-control" name="firstName" id="firstName" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="lastName" class="form-label"><span class="text-danger">*</span>Last name</label>
+                        <input type="text" class="form-control" name="lastName" id="lastName" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label"><span class="text-danger" placeholder="name@example.com">*</span>Email address</label>
+                        <input type="email" class="form-control" name="email" id="email" required/>
+                    </div>
+                    <div class="mb-3">
+                        <label for="phoneNumber" class="form-label"><span class="text-danger">*</span>Phone number</label>
+                        <input type="tel" class="form-control" name="phoneNumber" id="phoneNumber" required/>
+                    </div>
+                    <div class="mb-3">
+                        <p>Fields marked with <span class="text-danger">*</span> are required.</p>
+                    </div>
+                    <div class="mb-3">
+                        <button type="submit" class="btn btn-success w-100">Continue</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

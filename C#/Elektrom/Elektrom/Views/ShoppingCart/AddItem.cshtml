@@ -1,0 +1,33 @@
+﻿@model List<Elektrom.Models.Prekes>
+@{
+    ViewData["Title"] = "Add to cart";
+    Layout = "_ShoppingCartLayout";
+}
+
+<div class="container mt-5">
+    @foreach (var item in Model)
+    {
+        <div class="row">
+            <form asp-action="AddItem">
+                <div class="col-1">
+                    @item.IdPreke
+                </div>
+                <div class="col">
+                    @item.Pavadinimas
+                </div>
+                <div class="col-1">
+                    @item.Kiekis
+                </div>
+                <div class="col">
+                    <input id="input1" min="1" name="quantity" value="1" type="number" class="form-control" />
+                    <input id="input2" name="id" value="@item.IdPreke" type="hidden" class="form-control" />
+                </div>
+                <div class="col">
+                    <input type="submit" name="submit" class="btn btn-primary" value="Add">
+                </div>
+            </form>
+        </div>
+        <br>
+        <br>
+    }
+</div>

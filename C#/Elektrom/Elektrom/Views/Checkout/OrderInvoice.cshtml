@@ -1,0 +1,63 @@
+﻿@model (List<(Prekes, int)>, Uzsakymai order)
+@{
+    ViewData["Title"] = "Download invoice";
+    Layout = "_ShoppingCartLayout";
+}
+
+<div class="container-fluid">
+    <div class="row mb-3">
+        <h1>Elektrom</h1>
+    </div>
+    <div class="row mb-3">
+        <h6>Užsakymo numeris: @Model.order.IdUzsakymas</h6>
+    </div>
+    <div class="row mb-3">
+        <h6>Date of issue: @DateTime.Now</h6>
+    </div>
+    <div class="row mb-3">
+        <div class="col-6">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Item name</th>
+                        <th>Amount</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Item1)
+                    {
+                        <tr>
+                            <td>@item.Item1.Pavadinimas</td>
+                            <td>@item.Item2</td>
+                            <td>€@(item.Item1.Kainos.ToList()[0].Kaina * item.Item2)</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row mb-2">
+        <h6 class="m-0">Item total: €@(Math.Round((Model.order.Suma - 3) * 0.79))</h6>
+    </div>
+    <div class="row mb-2">
+        <h6 class="m-0">VAT: €@(Math.Round((Model.order.Suma - 3) * 0.21))</h6>
+    </div>
+    <div class="row mb-2">
+        <h6 class="m-0">Shipping: €3</h6>
+    </div>
+</div>
+
+@section Scripts
+{
+    <script>
+        $(document).ready(() => {
+            $("#body").css("background-color", "white");
+            window.print();
+            setTimeout("closePrintView()", 3000);
+        });
+        function closePrintView() {
+            document.location.href = '/Checkout/Clear';
+        }
+    </script>
+}

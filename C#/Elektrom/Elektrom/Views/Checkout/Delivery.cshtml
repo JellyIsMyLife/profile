@@ -1,0 +1,168 @@
+﻿@{
+    ViewData["Title"] = "Checkout - delivery";
+    Layout = "_ShoppingCartLayout";
+}
+
+<section>
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center mb-4">
+            <div class="bcca-breadcrumb">
+                <div class="bcca-breadcrumb-item">Confirmation</div>
+                <div class="bcca-breadcrumb-item">Payment</div>
+                <div class="bcca-breadcrumb-item bcca-breadcrumb-current">Delivery</div>
+                <div class="bcca-breadcrumb-item bcca-breadcrumb-before">User information</div>
+                <div class="bcca-breadcrumb-item">Shopping Cart</div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center align-items-center h-100">
+            <div class="col-6">
+                <div class="card card-registration card-registration-2" style="border-radius: 15px;">
+                    <div class="card-body p-4">
+                        <div class="row text-center mb-4">
+                            <h1>Delivery options</h1>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="btn-group">
+                                <input type="radio" class="btn-check" name="options" id="delivery" autocomplete="off" checked />
+                                <label class="btn btn-primary radio-btn" for="delivery">Home delivery</label>
+
+                                <input type="radio" class="btn-check" name="options" id="pickup" autocomplete="off" />
+                                <label class="btn btn-primary radio-btn" for="pickup">In-store pickup</label>
+                            </div>
+                        </div>
+                        <div class="row" id="homeDelivery">
+                            <form action="Delivery" method="POST">
+                                <div class="row mb-3">
+                                    <h5>Courier options</h5>
+                                </div>
+                                <div class="row mb-2">
+                                    <div class="form-check mb-3 ms-3">
+                                        <input class="form-check-input radio-btn-lg" type="radio" name="courierOptions" value="DPD" id="dpd" checked>
+                                        <label class="form-check-label" for="dpd">
+                                            DPD: <span class="fw-bold">2-3 days</span>, €3
+                                        </label>
+                                    </div>
+                                    <div class="form-check mb-3 ms-3">
+                                        <input class="form-check-input radio-btn-lg" type="radio" name="courierOptions" value="LP express" id="lpexpress">
+                                        <label class="form-check-label" for="lpexpress">
+                                            LP express: <span class="fw-bold">2-3 days</span> €4
+                                        </label>
+                                    </div>
+                                    <div class="form-check mb-3 ms-3">
+                                        <input class="form-check-input radio-btn-lg" type="radio" name="courierOptions" value="Omniva" id="omniva">
+                                        <label class="form-check-label" for="omniva">
+                                            Omniva: <span class="fw-bold">1-2 days</span>, €4
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="country" class="form-label"><span class="text-danger">*</span>Country</label>
+                                    <input type="text" class="form-control" name="country" id="country" required/>
+                                </div>
+                                <div class="mb-3 d-flex flex-row gap-3">
+                                    <div class="flex-fill">
+                                        <label for="city" class="form-label"><span class="text-danger">*</span>City</label>
+                                        <input type="text" class="form-control" name="city" id="city" required/>
+                                    </div>
+                                    <div class="flex-fill">
+                                        <label for="municipality" class="form-label"><span class="text-danger">*</span>Municipality</label>
+                                        <input type="text" class="form-control" name="municipality" id="municipality" required/>
+                                    </div>
+                                </div>
+                                <div class="mb-3 d-flex flex-row gap-3">
+                                    <div class="flex-fill">
+                                        <label for="postalCode" class="form-label"><span class="text-danger">*</span>Postal code</label>
+                                        <input type="text" class="form-control" name="postalCode" id="postalCode" required/>
+                                    </div>
+                                    <div class="flex-fill">
+                                        <label for="street" class="form-label"><span class="text-danger">*</span>Street name</label>
+                                        <input type="text" class="form-control" name="street" id="street" required/>
+                                    </div>
+                                </div>
+                                <div class="mb-3 d-flex flex-row gap-3">
+                                    <div class="flex-fill">
+                                        <label for="streetNumber" class="form-label"><span class="text-danger">*</span>Street number</label>
+                                        <input type="number" class="form-control" name="streetNumber" id="streetNumber" required/>
+                                    </div>
+                                    <div class="flex-fill">
+                                        <label for="apartmentNumber" class="form-label">Appartment number</label>
+                                        <input type="number" class="form-control" name="appartmentNumber" id="appartmentNumber" />
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <p>Fields marked with <span class="text-danger">*</span> are required.</p>
+                                </div>
+                                <div class="mb-3">
+                                    <button type="submit" class="btn btn-success w-100">Continue</button>
+                                </div>
+                            </form>
+                        </div>
+                        <div id="storePickup" style="display: none;">
+                            <div class="row mb-3">
+                                <h5>Pickup is available at these locations:</h5>
+                            </div>
+                            <form action="Delivery" method="POST">
+                                <div class="row">
+                                        <div class="form-check mb-3 ms-3">
+                                        <input class="form-check-input radio-btn-lg" type="radio" name="pickupOptions" id="radio1" value="Kaunas, Karaliaus Mindaugo pr. 49" checked>
+                                            <label class="form-check-label" for="radio1">
+                                                Kaunas, Karaliaus Mindaugo pr. 49
+                                            </label>
+                                        </div>
+                                        <div class="form-check mb-3 ms-3">
+                                        <input class="form-check-input radio-btn-lg" type="radio" name="pickupOptions" value="Klaipėda, Baltijos pr. 123" id="radio2">
+                                            <label class="form-check-label" for="radio2">
+                                                Klaipėda, Baltijos pr. 123
+                                            </label>
+                                        </div>
+                                        <div class="form-check mb-3 ms-3">
+                                        <input class="form-check-input radio-btn-lg" type="radio" name="pickupOptions" value="Vilnius, Kalvarijų g. 143-317" id="radio3">
+                                            <label class="form-check-label" for="radio3">
+                                                Vilnius, Kalvarijų g. 143-317
+                                            </label>
+                                        </div>
+                                        <div class="form-check mb-3 ms-3">
+                                            <input class="form-check-input radio-btn-lg" type="radio" name="pickupOptions" value="Vilnius, Trimitų g. 6-39" id="radio4">
+                                            <label class="form-check-label" for="radio4">
+                                                Vilnius, Trimitų g. 6-39
+                                            </label>
+                                        </div>
+                                </div>
+                                <div class="mb-3">
+                                    <button type="submit" class="btn btn-success w-100">Continue</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        $(document).ready(() => {
+
+            $("#delivery").click(() => {
+                console.log("delivery");
+                $("#storePickup").css("display", "none");
+                $("#homeDelivery").css("display", "block");
+            });
+
+            $("#pickup").click(() => {
+                console.log("pickup");
+                $("#storePickup").css("display", "block");
+                $("#homeDelivery").css("display", "none");
+            });
+
+            $("#radio6").click(() => {
+                $("#anotherPerson").css("display", "block");
+            });
+
+            $("#radio5").click(() => {
+                $("#anotherPerson").css("display", "none");
+            })
+        });
+    </script>
+}

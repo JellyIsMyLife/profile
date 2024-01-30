@@ -1,0 +1,92 @@
+﻿@using Elektrom.Models
+@using Elektrom.Utils
+@model Table
+@{
+    ViewData["Title"] = "Katalogas";
+    int pagenum = Model.page;
+    int startPage = Math.Max(pagenum - 4, 1);
+    int endPage = Math.Min(startPage + 8, Model.maxPages);
+}
+<div class="text-left">
+    <h1>Katalogas</h1>
+    <hr>
+    <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">Pavadinimas</a>
+    <a asp-action="Index" asp-route-sortOrder="@ViewData["PriceSortParm"]">Kaina</a>
+    <div class="row">
+        <div class="col-md-auto">
+            <form asp-action="Index" method="get">
+            <table>
+                @foreach (var c in Model.cat)
+                {
+                    <tr>
+                        <td>
+                            <input id="@c.IdKategorija" type="checkbox" name="SearchString" value="@c.IdKategorija" />
+                        </td>
+                        <td>
+                            <label for="@c.IdKategorija">@c.Pavadinimas</label>
+                        </td>
+                    </tr>
+                }
+            </table>
+            <br />
+                <input type="hidden" name="sortOrder" value="@Model.order" />
+                <input style="width:60px" type="text" name="lower" value="0.0" />
+                <input style="width:60px" type="text" name="higher" value="9000.0" />
+                <input type="submit" value="Filter" class="btn btn-info"/>
+        </form>
+        <div class="col">
+                <div class="row"><a class="btn btn-default" asp-area="" asp-controller="Catalog" asp-action="Add">Rodyti</a></div>
+                <div class="row"><a class="btn btn-default" asp-area="" asp-controller="Catalog" asp-action="Remove">Paslėpti</a></div>
+        </div>
+            
+        </div>
+        <div class="row">
+            <button>Katgorija 2</button>
+        </div>
+        <div class="row">
+            <button>Katgorija 3</button>
+        </div>
+        <div class="row">
+            <button>Katgorija 4</button>
+        </div>
+        <div class="row">
+            <button>Katgorija 5</button>
+        </div>
+        <div class="row">
+            <button>Katgorija 6</button>
+        </div>
+    </div>
+    <div class="col">
+        @foreach (var row in Model.getPage(pagenum))
+        {
+            <div class="row">
+                @foreach(var item in row)
+                {
+                    <div class="col">
+                            <a href="Item?id=@item.IdPreke">
+                                @{
+                                    var img = "test.png";
+                                    if(item.Nuotraukos.Any()) 
+                                    {
+                                        img = (item.Nuotraukos.ToArray()[0].Pavadinimas + "." + item.Nuotraukos.ToArray()[0].Formatas);
+                                    }
+                                }
+                                <img src="/images/@img" class="img-fluid rounded-3" alt="Cotton T-shirt">
+                            </a>
+                        <h5>@item.Pavadinimas</h5>
+                    </div>
+                }
+            </div>
+        }
+        <br>
+    </div>
+    <div class="row">
+        <div class="col text-right">@pagenum</div>
+            <div class="row">
+                @for (int i = startPage; i <= endPage; i++)
+                {
+                    <div class="col text-center"><a href="Catalog?page=@i">@i</a></div>
+                }
+        </div>
+    </div>
+</div>

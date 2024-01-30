@@ -1,0 +1,157 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Elektrom
+build_property.RootNamespace = Elektrom
+build_property.ProjectDir = /home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Areas/Identity/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvQWNjb3VudC9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Catalog/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0YWxvZy9BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Catalog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0YWxvZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Catalog/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0YWxvZy9SZW1vdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Checkout/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Checkout/Delivery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvRGVsaXZlcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Checkout/OrderComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvT3JkZXJDb21wbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Checkout/OrderInvoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvT3JkZXJJbnZvaWNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Checkout/Payment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvUGF5bWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Checkout/UserInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2hlY2tvdXQvVXNlckluZm9ybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbWVudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Item/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Item/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Item/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Item/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Shared/_CommentBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db21tZW50Qm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Shared/_ItemLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19JdGVtTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Shared/_ShoppingCartLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TaG9wcGluZ0NhcnRMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/ShoppingCart/AddItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdDYXJ0L0FkZEl0ZW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdDYXJ0L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-awszfnoxdu

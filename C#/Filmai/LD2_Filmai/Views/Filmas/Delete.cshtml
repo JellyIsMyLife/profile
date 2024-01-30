@@ -1,0 +1,56 @@
+﻿@model LD2_Filmai.Models.Filmas
+
+@{
+    ViewBag.Title = "Filmuko šalinimas";
+}
+
+<h2>Filmuko šalinimas</h2>
+
+<h3>Ar tikrai norite pašalinti šį filmą?</h3>
+<div>
+    <h4>Filmukas</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.pavadinimas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pavadinimas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isleidimoMetai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isleidimoMetai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.trukme)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.trukme)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.zanras)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.zanras)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Šalinti" class="btn btn-default" /> |
+            @Html.ActionLink("Atgal į sąrašą »", "Index")
+        </div>
+    }
+</div>

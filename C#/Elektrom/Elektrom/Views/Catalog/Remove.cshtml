@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Elektrom.Models.Prekes>
+
+@{
+    ViewData["Title"] = "Remove";
+}
+
+<h1>Slėpti</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Pavadinimas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Kiekis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Aprasymas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Rodymas)
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        <form asp-action="Remove" method="post">
+         
+        @foreach (var item in Model) 
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Pavadinimas)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Kiekis)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Aprasymas)
+                </td>
+                <td>
+                    <input id="@item.Rodymas" type="checkbox" name="show" value="@item.IdPreke" />
+                    <!--@Html.DisplayFor(modelItem => item.Rodymas)-->
+                </td>
+
+            </tr>
+        }
+        <input type="submit" value="Ok" class="btn btn-success" />
+        </form>
+    </tbody>
+</table>
+

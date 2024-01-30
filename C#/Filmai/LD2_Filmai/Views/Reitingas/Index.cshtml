@@ -1,0 +1,55 @@
+﻿@model IEnumerable<LD2_Filmai.ViewModels.ReitingasViewModel>
+
+@{
+    ViewBag.Title = "Reitingai";
+}
+
+<h2>Reitingai</h2>
+
+<p>
+    @Html.ActionLink("Naujas reitingas", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.filmas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.metacritic)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.rottenTomatoes)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.imdb)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.filmas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.metacritic)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.rottenTomatoes)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.imdb)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.id)
+        </td>
+        <td>
+            @Html.ActionLink("Redaguoti", "Edit", new { id = item.id }) |
+            @Html.ActionLink("Šalinti", "Delete", new { id = item.id })
+        </td>
+    </tr>
+}
+</table>

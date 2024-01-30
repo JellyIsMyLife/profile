@@ -1,0 +1,107 @@
+﻿@model double
+@{
+    ViewData["Title"] = "Checkout - payment";
+    Layout = "_ShoppingCartLayout";
+}
+
+<section>
+    <div class="container py-5 h-100">
+        <div class="row d-flex justify-content-center align-items-center mb-4">
+            <div class="bcca-breadcrumb">
+                <div class="bcca-breadcrumb-item">Confirmation</div>
+                <div class="bcca-breadcrumb-item bcca-breadcrumb-current">Payment</div>
+                <div class="bcca-breadcrumb-item bcca-breadcrumb-before">Delivery</div>
+                <div class="bcca-breadcrumb-item">User information</div>
+                <div class="bcca-breadcrumb-item">Shopping Cart</div>
+            </div>
+        </div>
+        <div class="row d-flex justify-content-center h-100">
+            <div class="col-5">
+                <div class="card card-registration card-registration-2" style="border-radius: 15px;">
+                    <div class="card-body p-4">
+                        <div class="row text-center mb-4">
+                            <h1>Payment details</h1>
+                        </div>
+                        <div class="row mb-3">
+                            <h5>Payment options</h5>
+                        </div>
+                        <div class="row mb-2">
+                            <div class="form-check form-check-inline mb-3 ms-3">
+                                <input class="form-check-input radio-btn-lg" type="radio" name="flexRadioDefault" id="radio2">
+                                <label class="form-check-label" for="radio2">
+                                    Pay using cash
+                                </label>
+                            </div>
+                            <div class="form-check form-check-inline mb-3 ms-3">
+                                <input class="form-check-input radio-btn-lg" type="radio" name="flexRadioDefault" id="radio1" checked>
+                                <label class="form-check-label" for="radio1">
+                                    Pay using card
+                                </label>
+                            </div>
+                        </div>
+                        <div class="row mb-3">
+                            <h5>Card information</h5>
+                        </div>
+                        <form action="Payment" method="POST" id="cardForm">
+                            <div class="row mb-2">
+                                <div class="mb-3">
+                                    <label for="cardNumber" class="form-label">Card number</label>
+                                    <input type="text" class="form-control" name="cardNumber" id="cardNumber" required/>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="cardholder" class="form-label">Cardholders name</label>
+                                    <input type="text" class="form-control" name="cardHolder" id="cardholder" required/>
+                                </div>
+                                <div class="mb-3 d-flex flex-row gap-3">
+                                    <div class="flex-fill">
+                                        <label for="expiration" class="form-label">Expiration</label>
+                                        <input type="text" class="form-control" name="expiration" id="expiration" placeholder="MM/YY" required/>
+                                    </div>
+                                    <div class="flex-fill">
+                                        <label for="cvv" class="form-label">CVV</label>
+                                        <input type="text" class="form-control" name="cvv" id="cvv" required/>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mb-2">
+                                <button type="submit" class="btn btn-success w-100" id="submit">Continue</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-3">
+                <div class="card card-registration card-registration-2 text-white" style="border-radius: 15px; background-color: #1B3FAB;">
+                    <div class="card-body p-4">
+                        <div class="row">
+                            <h3>You have to pay</h3>
+                        </div>
+                        <div class="row">
+                            <h1 style="color: #FFD700">€@Model</h1>
+                        </div>
+                        <div class="row">
+                            <p class="m-0">Item total: <span style="color: #FFD700">€@(Math.Round((Model - 3) * 0.79))</span></p>
+                            <p class="m-0">VAT: <span style="color: #FFD700">€@(Math.Round((Model - 3) * 0.21))</span></p>
+                            <p class="m-0">Shipping: <span style="color: #FFD700">€3</span></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script>
+        $(document).ready(() => {
+            $("#radio2").click(() => {
+                $("#cardForm :input").prop("disabled", true);
+                $("#submit").prop("disabled", false);
+            });
+
+            $("#radio1").click(() => {
+                $("#cardForm :input").prop("disabled", false);
+            });
+        });
+    </script>
+}

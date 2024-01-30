@@ -1,0 +1,55 @@
+﻿@model IEnumerable<LD2_Filmai.Models.Mokejimas>
+
+@{
+    ViewBag.Title = "Mokėjimai";
+}
+
+<h2>Mokėjimai</h2>
+
+<p>
+    @Html.ActionLink("Naujas mokėjimas", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.data)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.suma)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fk_klientas)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fk_saskaita)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.data)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.suma)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fk_klientas)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.fk_saskaita)
+        </td>
+        <td>
+            @Html.ActionLink("Redaguoti", "Edit", new { id = item.id }) |
+            @Html.ActionLink("Šalinti", "Delete", new { id = item.id })
+        </td>
+    </tr>
+}
+</table>

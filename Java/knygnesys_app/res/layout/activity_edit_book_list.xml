@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".worker.ViewBooksListActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:openDrawer="start"
+    android:background="#246C3D"
+    android:id="@+id/worker_drawer_layout">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <include
+            layout="@layout/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/background_rounded"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:ems="10"
+                    android:inputType="text"
+                    android:text="Padalinio knygos"
+                    android:textColor="@color/black"
+                    android:textAlignment="center"
+                    android:textSize="30sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal"
+                    android:layout_margin="10dp">
+
+                    <EditText
+                        android:id="@+id/search"
+                        android:layout_width="220dp"
+                        android:layout_height="match_parent"
+                        android:background="@drawable/rounded_input"
+                        android:fontFamily="@font/ubuntu"
+                        android:inputType="textPersonName"
+                        android:textColor="@color/black"
+                        android:padding="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_weight="1"/>
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/search_button"
+                        android:layout_width="10dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:text="Paieška"
+                        android:background="@drawable/rounded"
+                        android:textColor="#FFFF"/>
+                </LinearLayout>
+
+                <ListView
+                    android:id="@+id/list_view"
+                    android:layout_width="match_parent"
+                    android:layout_height="500dp" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    android:orientation="horizontal"
+                    android:layout_margin="10dp">
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/add_book"
+                        android:layout_width="178dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="5dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/rounded"
+                        android:text="Pridėti"
+                        android:textColor="#FFFF"
+                        android:layout_weight="1"/>
+
+                    <androidx.appcompat.widget.AppCompatButton
+                        android:id="@+id/to_orders"
+                        android:layout_width="178dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/rounded"
+                        android:text="Užsakymai"
+                        android:textColor="#FFFF"
+                        android:layout_weight="2"/>
+
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="200dp"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:layout_gravity="start"
+        tools:ignore="MissingConstraints">
+        <include
+            layout="@layout/worker_nav_drawer" />
+    </RelativeLayout>
+</androidx.drawerlayout.widget.DrawerLayout>

@@ -1,0 +1,72 @@
+﻿@model LD2_Filmai.ViewModels.GarsoTakelisEditViewModel
+
+@{
+    ViewBag.Title = "Garso takelio šalinimas";
+}
+
+<h2>Garso takelio šalinimas</h2>
+
+<h3>Ar tikrai norite pašalinti šį garso takelį?</h3>
+<div>
+    <h4>Garso takelis</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.atlikejas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.atlikejas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pavadinimas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pavadinimas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.isleidimoMetai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isleidimoMetai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.zanras)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.zanras)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.albumas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.albumas)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fk_filmas)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fk_filmas)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Šalinti" class="btn btn-default" /> |
+            @Html.ActionLink("Atgal į sąrašą »", "Index")
+        </div>
+    }
+</div>

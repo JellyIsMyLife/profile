@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/obj/Debug/net6.0/scopedcss/projectbundle/Elektrom.bundle.scp.css",
+      "PackagePath": "staticwebassets/Elektrom.bundle.scp.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/StarFade.gif",
+      "PackagePath": "staticwebassets/StarFade.gif"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/StarGlow.gif",
+      "PackagePath": "staticwebassets/StarGlow.gif"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/css/CreateComment.css",
+      "PackagePath": "staticwebassets/css/CreateComment.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/css/ShoppingCart.css",
+      "PackagePath": "staticwebassets/css/ShoppingCart.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/images/default.png",
+      "PackagePath": "staticwebassets/images/default.png"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/jelly/Dokumentai/University/5Semestras/IT_pag/elektrom/Elektrom/Elektrom/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Elektrom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Elektrom.props",
+      "PackagePath": "build\\Elektrom.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Elektrom.props",
+      "PackagePath": "buildMultiTargeting\\Elektrom.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Elektrom.props",
+      "PackagePath": "buildTransitive\\Elektrom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

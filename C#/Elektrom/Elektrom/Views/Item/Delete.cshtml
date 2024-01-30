@@ -1,0 +1,27 @@
+﻿@model Elektrom.Models.Prekes
+
+@{
+    ViewData["Title"] = "Prekės šalinimas";
+}
+
+<h1>Prekės šalinimas</h1>
+<p class="text-danger">@ViewData["ErrorMessage"]</p>
+<h3>Ar tikrai norite pašalinti prekę?</h3>
+<div>
+    <h4>Prekė</h4>
+    <hr />
+    <dl class="row">
+        <dd class="col-sm-2">
+            @Html.DisplayFor(model => model.Pavadinimas)
+        </dd>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Aprasymas)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="IdPreke" />
+        <input type="submit" value="Pašalinti" class="btn btn-danger" /> |
+        <a asp-action="Index" asp-route-id=@Model.IdPreke>Grįžti atgal</a>
+    </form>
+</div>

@@ -1,0 +1,130 @@
+@model Prekes
+
+@{
+    Layout = "_ItemLayout";
+    
+    var comments = (IEnumerable<AtsiliepimaiVM>)ViewBag.Comments;
+    // TODO ratings
+    // var ratingSum = ViewBag.RatingSum;
+    // var ratingCount = ViewBag.RatingCount;
+    //
+    // decimal rating = 0;
+    // if (ratingCount > 0)
+    // {
+    //     rating = (ratingSum / ratingCount);
+    // }
+    // var totalRating = decimal.Parse(rating.ToString());
+}
+
+<div class="text-left">
+    <div class="row justify-content-md-left">
+        <div class="col-md-auto">
+        <img src="/images/@ViewBag.Nuotrauka"
+             class="img-fluid rounded-3" width="300px" alt="Cotton T-shirt">
+        </div>
+        <div class="col">
+            <h2>@Model.Pavadinimas</h2>
+            <h4>Kategorija: @ViewBag.kategorija </h4>
+            <h2>Kaina: @Model.Kainos.First().Kaina €</h2>
+        </div>
+        <div class="col">
+            <a asp-action="Edit" asp-route-id="@Model.IdPreke">Edit</a>
+            <a asp-action="Create">Create New</a>
+            <a asp-action="Delete" asp-route-id="@Model.IdPreke">Delete</a>
+        </div>
+    </div>
+    <div>
+        <h4>Aprašymas:</h4>
+        <p>@Model.Aprasymas</p>
+    </div>
+    <div>
+        <h3>Rekomenduojamos prekės</h3>
+        <div class="row">
+            <div class="col">
+                <img src="https://via.placeholder.com/150x190"
+                     class="img-fluid rounded-3" alt="Cotton T-shirt">
+                <h6>Prekė 1</h6>
+            </div>
+            <div class="col">
+                <img src="https://via.placeholder.com/150x190"
+                     class="img-fluid rounded-3" alt="Cotton T-shirt">
+                <h6>Prekė 2</h6>
+            </div>
+            <div class="col">
+                <img src="https://via.placeholder.com/150x190"
+                     class="img-fluid rounded-3" alt="Cotton T-shirt">
+                <h6>Prekė 3</h6>
+            </div>
+            <div class="col">
+                <img src="https://via.placeholder.com/150x190"
+                     class="img-fluid rounded-3" alt="Cotton T-shirt">
+                <h6>Prekė 4</h6>
+            </div>
+            <div class="col">
+                <img src="https://via.placeholder.com/150x190"
+                     class="img-fluid rounded-3" alt="Cotton T-shirt">
+                <h6>Prekė 5</h6>
+            </div>
+            <div class="col">
+                <img src="https://via.placeholder.com/150x190"
+                     class="img-fluid rounded-3" alt="Cotton T-shirt">
+                <h6>Prekė 6</h6>
+            </div>
+        </div>
+    </div>
+    <br>
+    <div>
+        <h3>Kainų statistika:</h3>
+        <img src="https://via.placeholder.com/150x190"
+                     class="img-fluid rounded-3" alt="Cotton T-shirt">
+    </div>
+    <br>
+    <br>
+  
+    @foreach(var c in comments)
+    {
+        <hr />
+        <div class="row">
+            <div class="col-md-3">
+                @if (c.ats.SukurimoLaikas.CompareTo(c.ats.AtnaujinimoLaikas) == 0)
+                {
+                    <i>@c.ats.SukurimoLaikas</i>
+                }
+                @if (c.ats.SukurimoLaikas.CompareTo(c.ats.AtnaujinimoLaikas) != 0)
+                {
+                    <i>@c.ats.SukurimoLaikas (@c.ats.AtnaujinimoLaikas redaguota)</i>
+                }
+                <br/>
+                <i>@c.userName</i>
+                <br/>
+                @for (var i = 1; i <= c.ats.Ivertinimas; i++)
+                {
+                    <span class="starGlowN"></span>
+                }
+                @for (var i = (c.ats.Ivertinimas + 1); i <= 5; i++)
+                {
+                    <span class="starFadeN"></span>
+                }
+            </div>
+            <div class="col-md-9">
+                @Html.Raw(c.ats.Komentaras.Replace("\n", "<br />"))
+            </div>
+        </div>
+        @if (c.ats.FkNaudotojasidNaudotojas == ViewBag.idKlientas)
+        {
+            <div class=row>
+                <div class="col-md-6 text-end">
+                        <input type="button" class="btn btn-warning" value="Redaguoti" onclick="@("window.location.href='" + @Url.Action("Edit", "Comments", new { id = @c.ats.IdAtsiliepimas}) + "'");" />
+                </div>
+                <div class="col-md-6">
+                        <input type="button" class="btn btn-danger" value="Panaikinti" onclick="@("window.location.href='" + @Url.Action("Delete", "Comments", new { id = @c.ats.IdAtsiliepimas }) + "'");" />
+                </div>
+            </div>
+        }
+    }
+    <hr />
+    @if (ViewBag.CommentNumber == 0)
+    {
+        @Html.Partial("_CommentBox")
+    }
+</div>

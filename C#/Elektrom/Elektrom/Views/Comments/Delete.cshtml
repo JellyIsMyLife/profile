@@ -1,0 +1,49 @@
+@model AtsiliepimaiVM
+
+@{
+    Layout = "_ItemLayout";
+    int prekesID = Model.ats.FkPrekeidPreke;
+}
+
+<h2>Ar tikrai norite ištrinti šį komentarą?</h2>
+<br/>
+<br/>
+<div>
+    <h4>Prekės komentaras</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <div class="row">
+            <div class="col-md-3">
+                <i>@Model.ats.SukurimoLaikas</i>
+                <br />
+                <i>@Model.userName</i>
+                <br />
+                @for (var i = 1; i <= Model.ats.Ivertinimas; i++)
+                {
+                    <span class="starGlowN"></span>
+                }
+                @for (var i = (Model.ats.Ivertinimas + 1); i <= 5; i++)
+                {
+                    <span class="starFadeN"></span>
+                }
+            </div>
+            <div class="col-md-9">
+                @Html.Raw(Model.ats.Komentaras.Replace("\n", "<br />"))
+            </div>
+        </div>
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+            <div class="row">
+                <div class="col-md-6 text-end">
+                    <div class="form-actions">
+                        <input type="submit" value="Panaikinti" class="btn-lg btn-danger"/>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <input type="button" class="btn-lg btn-success" value="Atšaukti" onclick="window.location= '@Url.Action("Index", "Item", new { id = prekesID })'"/>
+                </div>
+            </div>
+        }
+    </dl>
+</div>

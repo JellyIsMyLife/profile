@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Update_at_2022-12-19_12_55_[Changes]1" date="1671447403571" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.Elektrom/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-19_12_55_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2022-12-19 12:55 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Elektrom/obj/Debug/net6.0/Elektrom.assets.cache" />
+    <option name="AFTER_PATH" value="Elektrom/obj/Debug/net6.0/Elektrom.assets.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Elektrom/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-19_12_55_[Changes]1/Elektrom.assets.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Elektrom/obj/Debug/net6.0/Elektrom.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="Elektrom/obj/Debug/net6.0/Elektrom.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Elektrom/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-19_12_55_[Changes]1/Elektrom.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Elektrom/obj/project.nuget.cache" />
+    <option name="AFTER_PATH" value="Elektrom/obj/project.nuget.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.Elektrom/.idea/shelf/Uncommitted_changes_before_Update_at_2022-12-19_12_55_[Changes]1/project.nuget.cache" />
+  </binary>
+</changelist>

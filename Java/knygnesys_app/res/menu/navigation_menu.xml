@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_account"
+        android:title="Paskyra" />
+
+    <item
+        android:id="@+id/nav_search"
+        android:title="Knygų paieška" />
+
+    <item
+        android:id="@+id/nav_cart"
+        android:title="Knygų krepšelis" />
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Atsijungti" />
+
+</menu>
