@@ -1,2 +1,2 @@
-# profile
-Projects throughout the years
+# Profile
+Some of my works
